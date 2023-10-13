@@ -5,6 +5,7 @@ VANGELICO  IS A FIVEM SCRIPT WHICH IS USED TO ROB JEWELRY
 # Dependencies
 --------------
 PS-UI - https://github.com/Project-Sloth/ps-ui 
+
 DN NOTIFY - https://dn-script.tebex.io/package/5864995 (OPTIONAL)
 
 # Help
