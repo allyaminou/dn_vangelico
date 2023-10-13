@@ -8,6 +8,12 @@ PS-UI - https://github.com/Project-Sloth/ps-ui
 
 DN NOTIFY - https://dn-script.tebex.io/package/5864995 (OPTIONAL)
 
+PREVIEW
+
+----------------
+
+SHOWCASE - https://youtu.be/8R1zPZBb-gA?si=gqZohKGChhnuMyOV
+
 # Help
 -------
 IF YOU NEED ANY HELPS OR FIXING ISSUES JOIN DN DEVELOPMENT [Discord](https://discord.gg/eqsZkck8Wc)
